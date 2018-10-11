@@ -24,12 +24,12 @@ Start with a goal, and learn how to do it here.
 ### Work with the internet ecosystem
 
 4.  [Make a webpage](#make-a-webpage)
-5.  [Use English as the main language](#use-english-as-the-main-language)
-6.  [Use utf-8 character encoding](#use-utf-8-character-encoding)
-7.  [Provide cross-browser default styling consistency](#provide-cross-browser-default-styling-consistency)
-8.  [Add a title](#add-a-title)
-9.  [Add a favicon](#add-a-favicon)
-10. [Add a stylesheet](#add-a-stylesheet)
+5.  [Add a title](#add-a-title)
+6.  [Add a favicon](#add-a-favicon)
+7.  [Add a stylesheet](#add-a-stylesheet)
+8.  [Use English as the main language](#use-english-as-the-main-language)
+9.  [Use utf-8 character encoding](#use-utf-8-character-encoding)
+10. [Provide cross-browser default styling consistency](#provide-cross-browser-default-styling-consistency)
 11. [Add mobile-responsiveness](#add-mobile-responsiveness)
 12. [Improve your SEO](#improve-your-seo)
 13. [Add metadata for web mobile apps](#add-metadata-for-web-mobile-apps)
